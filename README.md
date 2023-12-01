@@ -12,9 +12,9 @@ A NEMA17 close-loop stepper motor controller with RS485 interface, using MT6701 
 
 ## Making/Downloading
 
-The hardware is designed by lcEDA. 
-The software is only for AIR001, compiled and linked by GNU Tools for STM32 (10.3-2021.10)
-The binary release can be downloading using pyOCD with customized enhancement
+* The hardware is designed by lcEDA
+* The software is only for AIR001, compiled and linked by GNU Tools for STM32 (10.3-2021.10)
+* The binary release can be downloading using pyOCD with customized enhancement
 
 ## Known issues
 * The first thing is that I haven't actually used this system, the default parameters may be wrong.
