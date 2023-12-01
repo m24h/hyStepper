@@ -1,0 +1,7 @@
+Encoder Chip: MT6701STD
+Magnet: diameter=8mm, thickness=2mm
+Distance between Magnet and Chip: 2mm
+Motor: NEMA17, phase resistance=13.5Ohm, phase inductance=20mH, poles=50, J=11*10^-6 kg¡¤m^2 Tm=0.3Nm, Im=1.2A, power supply=24V
+Current: 0.62A (for "cali test") / 0.34A (for "enc test")
+Load: a small inertia (aluminium ring) is attached to the motor: 2.39 *10^-9 kg¡¤m^2
+
